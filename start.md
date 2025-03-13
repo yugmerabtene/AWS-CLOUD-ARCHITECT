@@ -151,4 +151,19 @@ Un **Cloud Architect AWS** doit maîtriser les services AWS, la sécurité, l’
 🎯 **Prochaine étape ?**  
 - Pratiquer avec **AWS Free Tier**  
 - Suivre une **formation AWS Solutions Architect Associate**  
-- Construire des **projets réels et déployer des architectures complètes**  
+- Construire des **projets réels et déployer des architectures complètes**
+
+[wellarchitected-framework.pdf](https://github.com/user-attachments/files/19223992/wellarchitected-framework.pdf)  
+
+
+ec2 :  https://aws.amazon.com/ec2/faqs/?saa=sec&sec=prep
+
+s3 : https://aws.amazon.com/s3/faqs/?saa=sec&sec=prep  
+
+vpc : https://aws.amazon.com/vpc/faqs/?saa=sec&sec=prep  
+
+route 53 : https://aws.amazon.com/route53/faqs/?saa=sec&sec=prep  
+
+rds : https://aws.amazon.com/rds/faqs/?saa=sec&sec=prep  
+sqs : https://aws.amazon.com/sqs/faqs/?saa=sec&sec=prep
+
