@@ -1,4 +1,4 @@
-### 🌩 Cours Complet : Cloud Architect AWS 🌩
+### 🌩 Cloud Architect AWS 🌩
 
 ---
 
